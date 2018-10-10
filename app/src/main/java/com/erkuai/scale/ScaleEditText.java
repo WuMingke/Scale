@@ -11,7 +11,7 @@ import android.util.AttributeSet;
 public class ScaleEditText extends AppCompatEditText {
 
 
-    
+
     public ScaleEditText(Context context) {
         super(context);
     }
